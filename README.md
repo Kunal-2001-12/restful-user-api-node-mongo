@@ -115,24 +115,5 @@ This is a simple RESTful API for managing users. It allows you to perform CRUD o
 - `email`: Must be a valid email address.
 - `age`: Must be a positive integer and at least 18.
 
-## Screenshots
-
-## API Testing Screenshots (ThunderClient)
-
-1. **GET** – Fetch all users
-   ![GET All Users](C:/Users/kunal/OneDrive/Pictures/Screenshots/RESTful%20API%20with%20MongoDB%20using%20Node.js%20and%20Express%20(100%20marks)/GET%20User%20by%20ID.png)
-
-2. **GET /:id** – Fetch user by ID
-   ![GET User by ID](C:/Users/kunal/OneDrive/Pictures/Screenshots/RESTful%20API%20with%20MongoDB%20using%20Node.js%20and%20Express%20(100%20marks)/Use%20ThunderClient%20to%20Add%20a%20User.png)
-
-3. **POST** – Create a new user
-   ![POST Create User](C:/Users/kunal/OneDrive/Pictures/Screenshots/Screenshot%202025-05-15%20151054.png)
-
-4. **PUT /:id** – Update existing user
-   ![PUT Update User](C:/Users/kunal/OneDrive/Pictures/Screenshots/Screenshot%202025-05-15%20151239.png)
-
-5. **DELETE /:id** – Delete user by ID
-   ![DELETE User](C:/Users/kunal/OneDrive/Pictures/Screenshots/Screenshot%202025-05-15%20151419.png)
-
 ## License
 This project is licensed under the MIT License.
